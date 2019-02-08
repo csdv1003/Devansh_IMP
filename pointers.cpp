@@ -4,7 +4,7 @@
 #include<conio.h>
 void main()
 { clrscr();
- int x=10,y=20;
+ int x=25,y=15;
  int *ptr1,*ptr2;
  ptr1=&x;
  ptr2=&y;
